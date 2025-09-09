@@ -1,0 +1,12 @@
+{
+  "name": "project-management",
+  "version": "1.0.0",
+  "description": "A project managment system for learning backend",
+  "license": "ISC",
+  "author": "Bhanu Pratap Singh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
